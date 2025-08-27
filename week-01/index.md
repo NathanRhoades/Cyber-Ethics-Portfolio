@@ -1,11 +1,11 @@
 # Ethics & Law Orientation (Week 1)
 
 ## My Ethical Lens
-"Rationalism emphasizes reason, logic, and systematic thinking as the primary sources of
-knowledge and ethical guidance"(Ed Weber, 2025). 
+I see the world through the lens of Rationalism. "Rationalism emphasizes reason, logic, and systematic thinking as the primary sources of
+knowledge and ethical guidance"(Ed Weber, 2025). Fortunately, computers operate on logic and reason.
 <!-- 3–4 sentences -->
 ## Authorization Principle
-Authorization is, at a fundimental level, is what a user is permitted to do. Users 
+Authorization is, at a fundamental level, what a user is permitted to do. Users 
 in an any setting should only be permitted to do what is required to perform their
 job and nothing more. A student at a college campus should not have the authorization
 to change firewall settings, as it is outside of their purview.
@@ -19,7 +19,5 @@ Use of Lab Network is limited to authorized users for research purposes within a
 <!-- add any diagrams -->
 
 ## Reflection
+My example policy snippet is fairly bare bones as it is the first one I have created. Now that I reflect on it, my snippet should include a section preventing users from performing illegal activities on the network. Perhaps also something to prohibit attempting to circumvent the firewall.
 <!-- 3–4 sentences: what you'd refine next; stakeholder impacts -->
-
-## AI Use Note (if used)
-<!-- tool, prompt(s), and edits you made -->
