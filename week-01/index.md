@@ -10,8 +10,8 @@
 <!-- paste your AUP/Authorization paragraph -->
 
 ## Evidence Links
-- [Reflection](./reflection.pdf)
-- [Policy snippet](./policy_snippet.pdf)
+- [Reflection](./Weekly Reflection — Week 1.pdf)
+- [Policy snippet](./AUP_Authorization Snippet.pdf)
 <!-- add any diagrams -->
 
 ## Reflection
